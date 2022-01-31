@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Ruda&display=swap');
+
+html{
+    background-color: #004385;
+    font-family: 'Ruda', sans-serif;
+    color: #dfdcd9;
+    text-align: center;
+    font-size: 18px;
+}
+
+h1{
+    margin-bottom: 0px;
+    font-size: 36px;
+}
+
+h2{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size: 26px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Righteous', cursive;
+
+}
+
+input{
+    font-family: 'Ruda', sans-serif;
+    color: black;
+    height: 30px;
+    width: 200px;
+    border-radius: 30px;
+    border: 1px solid rgba(0,0,0, 0.8);
+    text-align: center;
+    margin-right: 5px;
+}
+button{
+    font-family: 'Ruda', sans-serif;
+    background-color: #F0B95B;
+    border-radius: 30px;
+    width: 100px;
+    height: 30px;
+    border-style: none;
+    text-align: center;
+    box-shadow: 1px 2px 10px #8a6b36;
+}
+
+label{
+    font-size: 18px;
+}
+
+#linhaTitulo{
+    width: 500px;
+    height: 3px;
+    background-color: #D3D0CB;
+    border: none;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+#linhaInstruct{
+    width: 230px;
+    height: 3px;
+    background-color: #D3D0CB;
+    border: none;
+    margin-top: 0px;
+}
+
+#instrucaoTxt{
+    margin-bottom: 50px;
+}
